@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Arnaux Stevan
 
 
-- 👨‍💻 Trabalho a mais de Trabalho há mais de 4 anos na área da tecnologia com SQL Server e Visual Basic .net
+- 👨‍💻 Trabalho há mais de 4 anos na área da tecnologia com SQL Server e Visual Basic .net
 - 👨‍🎓 Sou formado em análise e desenvolvimento de sistemas
 - 📘 Atualmente estou estudando fazendo um curso completo de C# e OO, coleções, UML, ASP.NET, Entity Framework, LINQ, Lambda
 - 📚 Tenho também certificação em Scrum
