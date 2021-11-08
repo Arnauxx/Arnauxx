@@ -1,7 +1,8 @@
-## Olá! Eu sou o Arnaux Stevan
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
+
+## Olá! Eu sou o Arnaux Stevan
 
 - 👨‍💻 Trabalho há mais de 4 anos na área da tecnologia com SQL Server, C# e Visual Basic .net
 - 👨‍🎓 Sou formado em análise e desenvolvimento de sistemas
