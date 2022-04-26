@@ -2,12 +2,12 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 
-## Olá! Eu sou o Arnaux Stevan
+## Hello! My name is Arnaux Stevan
 
-- 👨‍💻 Trabalho há mais de 4 anos na área da tecnologia com SQL Server, C# e Visual Basic .net
-- 👨‍🎓 Sou formado em análise e desenvolvimento de sistemas
-- 📘 Atualmente estou estudando fazendo um curso completo de C# e OO, coleções, UML, ASP.NET, Entity Framework, LINQ, Lambda
-- 📚 Certificação em Scrum
+- 👨‍💻 I have been working in the technology area for over 4 years with SQL Server, C# e Visual Basic .net
+- 👨‍🎓 I have a degree in systems analysis and development.
+- 📘 I am currently studying doing a full course of C# e OO, coleções, UML, ASP.NET, Entity Framework, LINQ, Lambda
+- 📚 certification in Scrum
 
 <div>
   <a href="https://github.com/Arnauxx">
