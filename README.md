@@ -8,6 +8,8 @@
 - 👨‍🎓 I have a degree in systems analysis and development.
 - 📘 I am currently studying doing a full course of C# e OO, coleções, UML, ASP.NET, Entity Framework, LINQ, Lambda
 - 📚 certification in Scrum
+- 🌎 I am Brazilian
+
 
 <div>
   <a href="https://github.com/Arnauxx">
