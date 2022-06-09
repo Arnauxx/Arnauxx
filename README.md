@@ -4,7 +4,7 @@
 
 ## Hello! My name is Arnaux Stevan
 
-- 👨‍💻 I have been working in the technology area for over 4 years with SQL Server, C# e Visual Basic .net
+- 👨‍💻 I have been working in the technology area for over 4 years with SQL Server, C#, VB.NET, Angular and TypeScript
 - 👨‍🎓 I have a degree in systems analysis and development.
 - 📘 I am currently studying doing a full course of C# e OO, coleções, UML, ASP.NET, Entity Framework, LINQ, Lambda
 - 📚 certification in Scrum
