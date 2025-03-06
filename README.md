@@ -41,7 +41,6 @@
   <img align="center" alt="Arnaux-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arnaux-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arnaux-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Arnaux-Csharp" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_original_wordmark_logo_icon_146547.png">
   <img align="center" alt="Arnaux-Csharp" height="30" width="40" src="https://altyra.com/wp-content/uploads/2018/11/microsoft-sql-server-logo-png-300x243.png">
   <img align="right" alt="Arnaux-yoda" height="200" width="300" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 </div>
