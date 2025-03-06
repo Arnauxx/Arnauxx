@@ -2,14 +2,32 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 
-## Hello! My name is Arnaux Stevan
+## Olá! Meu nome é Arnaux Stevan
 
-- 👨‍💻 I have been working in the technology area for over 4 years with SQL Server, C#, VB.NET and 1 year with Angular and Typescript
-- 👨‍🎓 I have a degree in systems analysis and development.
-- 📘 I am currently studying doing a full course of C# e OO, coleções, UML, ASP.NET, Entity Framework, LINQ, Lambda
-- 📚 certification in Scrum
-- 🌎 I am Brazilian
-
+ - 👨‍💻 Sou um desenvolvedor de software
+ backend com bastante experiência em
+ sistemas de cobrança, chatbots e
+ sistemas de grande porte. 
+ 
+ - 👨‍💻 Meu foco
+ profissional é projetar e entregar
+ soluções robustas e escaláveis.
+ Possuo experiência prática em .NET, C#,
+ VB, Sql server, Oracle, Git, APIs, sou
+ especialista em realizar integrações de
+ APIs, e em programação orientada a
+ objetos aplicando fundamentos como
+ SOLID, DRY, Design patterns, testes
+ unitários entre outros.
+ 
+ - 👨‍🎓 Sou formado em Análise e
+ desenvolvimento de sistemas e continuo
+ sempre buscando aprender sobre novas
+ tecnologias para ampliar ainda mais
+ meus conhecimentos
+ - 👨‍💻 Atualmente
+ trabalho na Sysopen como
+ Desenvolvedor de software.
 
 <div>
   <a href="https://github.com/Arnauxx">
