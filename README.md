@@ -9,7 +9,7 @@
  sistemas de cobrança, chatbots e
  sistemas de grande porte. 
  
- - 👨‍💻 Meu foco
+ - 📝 Meu foco
  profissional é projetar e entregar
  soluções robustas e escaláveis.
  Possuo experiência prática em .NET, C#,
@@ -25,7 +25,7 @@
  sempre buscando aprender sobre novas
  tecnologias para ampliar ainda mais
  meus conhecimentos
- - 👨‍💻 Atualmente
+ - 👨‍💼 Atualmente
  trabalho na Sysopen como
  Desenvolvedor de software.
 
